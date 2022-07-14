@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf-assets.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF down0000" x="0" y="0" width="1000" height="1000" frameX="0" frameY="0" frameWidth="1002" frameHeight="1000"/>
+	<SubTexture name="BF down0001" x="1000" y="0" width="1000" height="1000" frameX="-2" frameY="0" frameWidth="1002" frameHeight="1000"/>
+	<SubTexture name="BF down0002" x="2000" y="0" width="1000" height="1000" frameX="-2" frameY="0" frameWidth="1002" frameHeight="1000"/>
+	<SubTexture name="BF down miss0000" x="3000" y="0" width="1000" height="1000" frameX="0" frameY="0" frameWidth="1001" frameHeight="1000"/>
+	<SubTexture name="BF down miss0001" x="4000" y="0" width="1000" height="1000" frameX="-1" frameY="0" frameWidth="1001" frameHeight="1000"/>
+	<SubTexture name="BF hey0000" x="5000" y="0" width="1000" height="1000" frameX="0" frameY="-2" frameWidth="1001" frameHeight="1003"/>
+	<SubTexture name="BF hey0001" x="6000" y="0" width="1000" height="1000" frameX="-1" frameY="-3" frameWidth="1001" frameHeight="1003"/>
+	<SubTexture name="BF hey0002" x="7000" y="0" width="1000" height="1000" frameX="0" frameY="0" frameWidth="1001" frameHeight="1003"/>
+	<SubTexture name="BF hey0003" x="0" y="1000" width="1000" height="1000" frameX="0" frameY="-1" frameWidth="1001" frameHeight="1003"/>
+	<SubTexture name="BF idle0000" x="1000" y="1000" width="1000" height="1000" frameX="-2" frameY="-1" frameWidth="1002" frameHeight="1001"/>
+	<SubTexture name="BF idle0001" x="2000" y="1000" width="1000" height="1000" frameX="0" frameY="-1" frameWidth="1002" frameHeight="1001"/>
+	<SubTexture name="BF idle0002" x="3000" y="1000" width="1000" height="1000" frameX="0" frameY="0" frameWidth="1002" frameHeight="1001"/>
+	<SubTexture name="BF idle0003" x="4000" y="1000" width="1000" height="1000" frameX="-1" frameY="-1" frameWidth="1002" frameHeight="1001"/>
+	<SubTexture name="BF idle0004" x="5000" y="1000" width="1000" height="1000" frameX="-2" frameY="-1" frameWidth="1002" frameHeight="1001"/>
+	<SubTexture name="BF idle0005" x="5000" y="1000" width="1000" height="1000" frameX="-2" frameY="-1" frameWidth="1002" frameHeight="1001"/>
+	<SubTexture name="BF idle0006" x="5000" y="1000" width="1000" height="1000" frameX="-2" frameY="-1" frameWidth="1002" frameHeight="1001"/>
+	<SubTexture name="BF idle0007" x="5000" y="1000" width="1000" height="1000" frameX="-2" frameY="-1" frameWidth="1002" frameHeight="1001"/>
+	<SubTexture name="BF idle0008" x="5000" y="1000" width="1000" height="1000" frameX="-2" frameY="-1" frameWidth="1002" frameHeight="1001"/>
+	<SubTexture name="BF idle0009" x="5000" y="1000" width="1000" height="1000" frameX="-2" frameY="-1" frameWidth="1002" frameHeight="1001"/>
+	<SubTexture name="BF idle0010" x="5000" y="1000" width="1000" height="1000" frameX="-2" frameY="-1" frameWidth="1002" frameHeight="1001"/>
+	<SubTexture name="BF idle0011" x="5000" y="1000" width="1000" height="1000" frameX="-2" frameY="-1" frameWidth="1002" frameHeight="1001"/>
+	<SubTexture name="BF left0000" x="6000" y="1000" width="1000" height="1000" frameX="0" frameY="0" frameWidth="1001" frameHeight="1001"/>
+	<SubTexture name="BF left0001" x="7000" y="1000" width="1000" height="1000" frameX="0" frameY="0" frameWidth="1001" frameHeight="1001"/>
+	<SubTexture name="BF left0002" x="0" y="2000" width="1000" height="1000" frameX="-1" frameY="-1" frameWidth="1001" frameHeight="1001"/>
+	<SubTexture name="BF left miss0000" x="1000" y="2000" width="1000" height="1000" frameX="0" frameY="0" frameWidth="1000" frameHeight="1001"/>
+	<SubTexture name="BF left miss0001" x="2000" y="2000" width="1000" height="1000" frameX="0" frameY="-1" frameWidth="1000" frameHeight="1001"/>
+	<SubTexture name="BF right0000" x="3000" y="2000" width="1000" height="1000" frameX="0" frameY="0" frameWidth="1002" frameHeight="1002"/>
+	<SubTexture name="BF right0001" x="4000" y="2000" width="1000" height="1000" frameX="-2" frameY="-2" frameWidth="1002" frameHeight="1002"/>
+	<SubTexture name="BF right0002" x="5000" y="2000" width="1000" height="1000" frameX="0" frameY="-2" frameWidth="1002" frameHeight="1002"/>
+	<SubTexture name="BF right miss0000" x="6000" y="2000" width="1000" height="1000" frameX="0" frameY="0" frameWidth="1001" frameHeight="1001"/>
+	<SubTexture name="BF right miss0001" x="7000" y="2000" width="1000" height="1000" frameX="-1" frameY="-1" frameWidth="1001" frameHeight="1001"/>
+	<SubTexture name="BF up0000" x="0" y="3000" width="1000" height="1000" frameX="0" frameY="-1" frameWidth="1002" frameHeight="1001"/>
+	<SubTexture name="BF up0001" x="1000" y="3000" width="1000" height="1000" frameX="-2" frameY="0" frameWidth="1002" frameHeight="1001"/>
+	<SubTexture name="BF up0002" x="2000" y="3000" width="1000" height="1000" frameX="-1" frameY="0" frameWidth="1002" frameHeight="1001"/>
+	<SubTexture name="BF up miss0000" x="3000" y="3000" width="1280" height="1280" frameX="-1" frameY="0" frameWidth="1281" frameHeight="1280"/>
+	<SubTexture name="BF up miss0001" x="4280" y="3000" width="1280" height="1280" frameX="0" frameY="0" frameWidth="1281" frameHeight="1280"/>
+</TextureAtlas>

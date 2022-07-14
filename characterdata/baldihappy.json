@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				370,
+				132
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Baldi idle"
+		},
+		{
+			"offsets": [
+				300,
+				60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Baldi left"
+		},
+		{
+			"offsets": [
+				340,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Baldi down"
+		},
+		{
+			"offsets": [
+				300,
+				110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Baldi up"
+		},
+		{
+			"offsets": [
+				230,
+				60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Baldi right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/baldihappy-assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "baldihappy",
+	"flip_x": false,
+	"healthbar_colors": [
+		65,
+		223,
+		41
+	],
+	"camera_position": [
+		-400,
+		-90
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

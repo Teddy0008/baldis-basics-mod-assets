@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="baldiangry-assets.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Baldi down0000" x="0" y="0" width="1000" height="1000" frameX="0" frameY="0" frameWidth="1001" frameHeight="1001"/>
+	<SubTexture name="Baldi down0001" x="1000" y="0" width="1000" height="1000" frameX="0" frameY="0" frameWidth="1001" frameHeight="1001"/>
+	<SubTexture name="Baldi down0002" x="2000" y="0" width="1000" height="1000" frameX="-1" frameY="-1" frameWidth="1001" frameHeight="1001"/>
+	<SubTexture name="Baldi idle0000" x="3000" y="0" width="1000" height="1000" frameX="0" frameY="-1" frameWidth="1001" frameHeight="1003"/>
+	<SubTexture name="Baldi idle0001" x="4000" y="0" width="1000" height="1000" frameX="0" frameY="-2" frameWidth="1001" frameHeight="1003"/>
+	<SubTexture name="Baldi idle0002" x="5000" y="0" width="1000" height="1000" frameX="-1" frameY="-3" frameWidth="1001" frameHeight="1003"/>
+	<SubTexture name="Baldi idle0003" x="6000" y="0" width="1000" height="1000" frameX="-1" frameY="0" frameWidth="1001" frameHeight="1003"/>
+	<SubTexture name="Baldi idle0004" x="7000" y="0" width="1000" height="1000" frameX="-1" frameY="-2" frameWidth="1001" frameHeight="1003"/>
+	<SubTexture name="Baldi idle0005" x="0" y="1000" width="1000" height="1000" frameX="-1" frameY="-1" frameWidth="1001" frameHeight="1003"/>
+	<SubTexture name="Baldi idle0006" x="1000" y="1000" width="1000" height="1000" frameX="0" frameY="-2" frameWidth="1001" frameHeight="1003"/>
+	<SubTexture name="Baldi idle0007" x="2000" y="1000" width="1000" height="1000" frameX="-1" frameY="0" frameWidth="1001" frameHeight="1003"/>
+	<SubTexture name="Baldi left0000" x="3000" y="1000" width="1000" height="1000" frameX="-1" frameY="-1" frameWidth="1001" frameHeight="1001"/>
+	<SubTexture name="Baldi left0001" x="4000" y="1000" width="1000" height="1000" frameX="0" frameY="0" frameWidth="1001" frameHeight="1001"/>
+	<SubTexture name="Baldi left0002" x="5000" y="1000" width="1000" height="1000" frameX="0" frameY="-1" frameWidth="1001" frameHeight="1001"/>
+	<SubTexture name="Baldi right0000" x="6000" y="1000" width="1000" height="1000" frameX="0" frameY="0" frameWidth="1001" frameHeight="1000"/>
+	<SubTexture name="Baldi right0001" x="7000" y="1000" width="1000" height="1000" frameX="-1" frameY="0" frameWidth="1001" frameHeight="1000"/>
+	<SubTexture name="Baldi right0002" x="0" y="2000" width="1000" height="1000" frameX="0" frameY="0" frameWidth="1001" frameHeight="1000"/>
+	<SubTexture name="Baldi slap0000" x="1000" y="2000" width="1000" height="1000" frameX="-1" frameY="0" frameWidth="1003" frameHeight="1002"/>
+	<SubTexture name="Baldi slap0001" x="2000" y="2000" width="1000" height="1000" frameX="-3" frameY="-1" frameWidth="1003" frameHeight="1002"/>
+	<SubTexture name="Baldi slap0002" x="3000" y="2000" width="1000" height="1000" frameX="-3" frameY="-1" frameWidth="1003" frameHeight="1002"/>
+	<SubTexture name="Baldi slap0003" x="4000" y="2000" width="1000" height="1000" frameX="-2" frameY="-1" frameWidth="1003" frameHeight="1002"/>
+	<SubTexture name="Baldi slap0004" x="5000" y="2000" width="1000" height="1000" frameX="-1" frameY="-1" frameWidth="1003" frameHeight="1002"/>
+	<SubTexture name="Baldi slap0005" x="6000" y="2000" width="1000" height="1000" frameX="0" frameY="-2" frameWidth="1003" frameHeight="1002"/>
+	<SubTexture name="Baldi slap0006" x="7000" y="2000" width="1000" height="1000" frameX="-3" frameY="-2" frameWidth="1003" frameHeight="1002"/>
+	<SubTexture name="Baldi up0000" x="0" y="3000" width="1000" height="1000" frameX="0" frameY="-1" frameWidth="1003" frameHeight="1002"/>
+	<SubTexture name="Baldi up0001" x="1000" y="3000" width="1000" height="1000" frameX="-3" frameY="-2" frameWidth="1003" frameHeight="1002"/>
+	<SubTexture name="Baldi up0002" x="2000" y="3000" width="1000" height="1000" frameX="-3" frameY="0" frameWidth="1003" frameHeight="1002"/>
+</TextureAtlas>

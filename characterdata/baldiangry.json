@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				370,
+				132
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Baldi idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				330,
+				130
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Baldi left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				390,
+				160
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Baldi down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				420,
+				110
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Baldi up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				470,
+				170
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Baldi right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				390,
+				110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "Baldi slap"
+		},
+		{
+			"offsets": [
+				390,
+				110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "Baldi slap"
+		},
+		{
+			"offsets": [
+				390,
+				110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "Baldi slap"
+		},
+		{
+			"offsets": [
+				390,
+				110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "Baldi slap"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/baldiangry-assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "baldiangry",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-500,
+		-160
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}
